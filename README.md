@@ -14,3 +14,5 @@ As of v0.4 it is usable but it's just the basics.
 * Use "data-" attribute to allow for alternate high quality images (saves data)
 * Alternate theme(s)
 * Animations
+* Test, test test!
+* Convert to plain JavaScript so no dependancy on jQuery
